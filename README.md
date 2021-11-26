@@ -1,6 +1,6 @@
 # HarvardX-Using-Python-for-Research
 
-Link for the course: [Using Python for Research](https://courses.edx.org/courses/course-v1:HarvardX+PH526x+2T2020/course/)
+Link for the course: [Using Python for Research](https://www.edx.org/course/using-python-for-research)
 
 This course is a course offered by Harvard in edX platform. Syllabus of the course is following:
 
